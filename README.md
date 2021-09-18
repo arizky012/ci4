@@ -1,8 +1,12 @@
-# Database
+# Please Read
 
-i am using phpmyadmin via xampp
+database = use phpmyadmin via xampp
+server = php spark serve
+require internet connection
 
-## Use manual query
+## Database
+
+### Use manual query
 
 CREATE TABLE users(
     user_id INT PRIMARY KEY AUTO_INCREMENT,
@@ -15,10 +19,11 @@ CREATE TABLE users(
 
 OR
 
-## import sql file
+### import sql file
 
 file location 
 
 ci4\app\Database/ci4.sql
 
-#
+## important
+there is my email :)
